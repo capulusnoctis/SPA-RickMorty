@@ -1,5 +1,5 @@
 const Header = () => {
-    const View = `
+    const view = `
         <div class="Header-main">
             <div class="Header-logo">
                 <h1>
@@ -15,7 +15,7 @@ const Header = () => {
             </div>
         </div>
     `;
-    return Header;
+    return view;
 };
 
 export default Header;
